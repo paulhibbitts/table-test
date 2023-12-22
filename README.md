@@ -22,7 +22,7 @@
 </div>
 <div class="column">
 
-![Headshot](images/photo.jpg)  
+![Headshot](image.jpg)  
 
 </div>
 </div>
@@ -30,7 +30,7 @@
 <div class="row">
 <div class="column-reverse">
 
-![Headshot](images/photo.jpg)  
+![Headshot](image.jpg)  
 
 </div>
 <div class="column-reverse">
