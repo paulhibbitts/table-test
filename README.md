@@ -33,7 +33,7 @@
 ![Headshot](image.jpg)  
 
 </div>
-<div class="column">
+<div class="column-reverse">
 
 **Information**  
 
