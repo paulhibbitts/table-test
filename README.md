@@ -1,6 +1,6 @@
 # Your name here
 
-<div class="row">
+<div class="row reverse-columns">
 <div class="column">
 
 **Information**  
@@ -23,33 +23,6 @@
 <div class="column">
 
 ![Headshot](image.jpg)  
-
-</div>
-</div>
-
-<div class="row">
-<div class="column-reverse">
-
-![Headshot](image.jpg)  
-
-</div>
-<div class="column-reverse">
-
-**Information**  
-
-- your@email.com
-- [LinkedIn](https://www.linkedin.com)
-- [GitHub](https://github.com)
-- . . .
-
-**Showcase**
-
-- [Education](education.md)
-- [Experience](experience.md)
-- [Projects](projects.md)
-- [Skills & Qualifications](qualifications.md)
-- [Honors & Extracurriculars](extracurriculars.md)
-- . . .
 
 </div>
 </div>
