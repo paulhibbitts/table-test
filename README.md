@@ -1,4 +1,11 @@
-# table-test
+<style>
+  :root {
+    /* Tables */
+    --table-cell-border-width: 1px;
+    --table-row-even-background: var(--mono-tint3);
+    --table-row-odd-background: inherit;
+  }
+</style>
 
 <table>
   <tbody>
