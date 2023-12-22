@@ -1,11 +1,58 @@
-<style>
-  :root {
-    /* Tables */
-    --table-cell-border-width: 1px;
-    --table-row-even-background: var(--mono-tint3);
-    --table-row-odd-background: inherit;
-  }
-</style>
+# Your name here
+
+<div class="row">
+<div class="column">
+
+**Information**  
+
+- your@email.com
+- [LinkedIn](https://www.linkedin.com)
+- [GitHub](https://github.com)
+- . . .
+
+**Showcase**
+
+- [Education](education.md)
+- [Experience](experience.md)
+- [Projects](projects.md)
+- [Skills & Qualifications](qualifications.md)
+- [Honors & Extracurriculars](extracurriculars.md)
+- . . .
+
+</div>
+<div class="column">
+
+![Headshot](images/photo.jpg)  
+
+</div>
+</div>
+
+<div class="row">
+<div class="column-reverse">
+
+![Headshot](images/photo.jpg)  
+
+</div>
+<div class="column-reverse">
+
+**Information**  
+
+- your@email.com
+- [LinkedIn](https://www.linkedin.com)
+- [GitHub](https://github.com)
+- . . .
+
+**Showcase**
+
+- [Education](education.md)
+- [Experience](experience.md)
+- [Projects](projects.md)
+- [Skills & Qualifications](qualifications.md)
+- [Honors & Extracurriculars](extracurriculars.md)
+- . . .
+
+</div>
+</div>
 
 <table>
   <tbody>
